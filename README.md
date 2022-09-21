@@ -1,1 +1,2 @@
-# Scilab-Control-System
+# Scilab-Control-System-Toolbox
+These codes were developed in SCILAB (https://www.scilab.org/) programming language under the FOSSEE (Free/Libre and Open Source Software for Education) project at Indian Institute of Technology, Bombay. FOSSEE project promotes the use of FOSS tools in academia and research. The FOSSEE project is part of the National Mission on Education, Ministry of Education (MoE), Government of India. For more details visit https://fossee.in/. 
